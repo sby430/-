@@ -20,13 +20,12 @@
 ## 数据库结构
 create_tables.sql
 
+## 视频链接
+https://www.bilibili.com/video/BV1kErsBrEDJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=583304a0e892023046ff0df19f2fff92
+
 ## 使用说明
 1. 在 MySQL 中执行 create_tables.sql 创建表结构
 2. 执行 insert_test_data.sql 插入测试数据
 3. 执行 create_admin.sql 创建管理员
 4. 执行 test_for_video 视频中实现测试
 
-## 小组成员
-- 石镔岩
-- 宋佳
-- 孙以恒

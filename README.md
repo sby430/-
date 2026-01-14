@@ -18,7 +18,7 @@
 - 门诊收入统计
 
 ## 数据库结构
-create_tables.sql
+详见create_tables.sql及ppt
 
 ## 视频链接
 https://www.bilibili.com/video/BV1kErsBrEDJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=583304a0e892023046ff0df19f2fff92
